@@ -2,7 +2,7 @@
 During this Python exercise, I gained practical experience in importing modules such as csv and reading and writing files in different formats. Additionally, I was able to practice storing information in variables, lists, and dictionaries, as well as iterating through basic data structures and debugging throughout the process. Applying the knowledge acquired in my UT Data analysis Bootcamp, I endeavored to deconstruct my assignments into manageable, bite-sized objectives.
 
 PyBank-
-In this Challenge, I was tasked with creating a Python script to analyze the financial records of a company. YI was  given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
+In this Challenge, I was tasked with creating a Python script to analyze the financial records of a company. I was  given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
 Create a Python script that analyzes the records to calculate each of the following values:
 
